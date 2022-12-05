@@ -1,2 +1,1 @@
-# my-first-website
-This is my first time using Git
+# first_web_practice
